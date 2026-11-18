@@ -1,4 +1,3 @@
-  GNU nano 7.2                        crepes-classiques.md                                 
 ---
 titre: "Gateau au citrons"
 description: "Une recette de ma grande-mère pour un gâteau aux citrons allemand"
