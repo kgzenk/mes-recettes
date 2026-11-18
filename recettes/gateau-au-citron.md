@@ -1,6 +1,6 @@
 ---
-titre: "Gateau au citrons"
-description: "Une recette de ma grande-mère pour un gâteau aux citrons allemand"
+titre: "Gateau aux citrons"
+description: "Une recette de ma grande-mère pour un gâteau aux citrons façon allemand"
 auteur: "kgzenk"
 date: 2026-11-18
 temps_de_préparation: "20 min"
@@ -31,9 +31,9 @@ source: mamie
 
 # Préparation
 
-1. Préchauffez le four à 160 degrées (chaleur tournante).
-2. Mélangez le beurre (plutôt mou), le sucre, et les oeufs afin d'obtenir un mélange homogène et legèrement mousseux.
-3. Ajoutez la pincée de sel, la zeste d'au moins deux citrons (ou davantage si vous aimez bien le goût), les amandes en poudre, la farine, ainsi aue la levure chimique.
-4. Faites cuire le gateux dans un moule à cake dans le four pendant 50 à 60 min. Pour verifier que le gateau soit bien cuit, piquez le centre du gâteau avec un cure-dent : il doit ressortir propre et sec. 
-5. Pendant que le gateau refroidisse dans le moule, avec un cure-dent, faites une grille de trous (4x12) dans la partie superieure de votre gateau. Avec une seringue, "vaccinez" le gateau avec le jus de tous les citrons dans les trous que vous venez de faire.
+1. Préchauffez le four à 160 degrés (chaleur tournante).
+2. Mélangez le beurre (plutôt mou), le sucre, et les oeufs afin d’obtenir un mélange homogène et légèrement mousseux.
+3. Ajoutez la pincée de sel, la zeste d’au moins deux citrons (ou davantage si vous aimez bien le goût), les amandes en poudre, la farine, ainsi aue la levure chimique.
+4. Faites cuire le gateux dans un moule à cake dans le four pendant 50 à 60 min. Pour verifier que le gateau soit bien cuit, piquez le centre du gâteau avec un cure-dent, il doit ressortir propre et sec. 
+5. Pendant que le gateau refroidisse dans le moule, avec un cure-dent, faites une serie de trous (4 x 12) dans la partie superieure de votre gateau. Avec une seringue, «vaccinez» le gateau avec le jus de tous les citrons dans les trous que vous venez de faire.
 
