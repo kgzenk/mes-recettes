@@ -13,7 +13,7 @@ coût: "€"
 tags:
   - rapide
   - végétarien
-image: ![image] (recettes/crepes.jpg)
+image: recettes/crepes.jpg
 ingredients:
   - "250 g de farine"
   - "3 œufs"
